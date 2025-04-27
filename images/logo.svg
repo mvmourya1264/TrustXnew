@@ -1,0 +1,9 @@
+<svg viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .logo-text { font-family: 'Arial', sans-serif; font-weight: bold; }
+    .trust { fill: #4361ee; }
+    .x { fill: #3a0ca3; }
+  </style>
+  <text x="10" y="40" class="logo-text trust" font-size="32">Trust</text>
+  <text x="110" y="40" class="logo-text x" font-size="36">X</text>
+</svg>
